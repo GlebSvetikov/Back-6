@@ -91,6 +91,7 @@
                             <input type="submit" value="Отправить" />
                         </div>
         <a href="login.php" class="auth-button">Авторизация</a>
+				<a href="admin.php" class="auth-button">Админ</a>
                     </form>
 				<script>
               const select = document.getElementById('year');
